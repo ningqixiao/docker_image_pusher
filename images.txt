@@ -1,1 +1,1 @@
-flowable
+flowable:latest

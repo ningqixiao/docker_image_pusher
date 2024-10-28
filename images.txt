@@ -1,1 +1,1 @@
-flowable:latest
+Flowable 7.0.1 release 

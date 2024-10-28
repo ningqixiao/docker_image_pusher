@@ -1,1 +1,1 @@
-flowable-ui:7.0.1
+flowable-ui:6.8.0

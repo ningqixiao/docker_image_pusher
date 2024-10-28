@@ -1,1 +1,1 @@
-flowable 7.1.0release
+flowable:7.1.0 release

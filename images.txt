@@ -1,1 +1,1 @@
-flowable-springboot
+flowable/flowable-springboot

@@ -1,2 +1,1 @@
-#flowable/flowable-ui
-sentinel
+seataio/seata-server:1.5.0

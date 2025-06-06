@@ -1,1 +1,1 @@
-minio/minio
+ollama/ollama
